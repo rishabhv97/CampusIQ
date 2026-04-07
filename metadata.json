@@ -1,0 +1,5 @@
+{
+  "name": "Campus Placement Intelligence Dashboard",
+  "description": "Analyze and query institutional placement data using AI. Transform scattered Excel sheets and PDFs into meaningful insights for students.",
+  "requestFramePermissions": []
+}
